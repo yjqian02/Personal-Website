@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Zhang"
-  avatar           : "https://github.com/yjqian02/yjqian02.github.io/blob/9f8086acd16a838799f284207d347b58e2d0e4dd/images/2020-06-13%20Alice's%20iPhone%20Photos%20906%20(2).JPG"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Minneapolis, MN 55455"
   employer         :
