@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Alice Zhang"
-  avatar           : "profile.png"
+  avatar           : "2020-06-13 Alice's iPhone Photos 906 (2).jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Minneapolis, MN 55455"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yjqian02/yjqian02.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alice-zhang-2775431b6/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -176,12 +176,12 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  portfolio:
+  CV:
     output: true
     permalink: /:collection/:path/
   talks:
