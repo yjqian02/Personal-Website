@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alice Zhang"
 title_separator          : "-"
 name                     : &name "Alice Zhang"
-description              : &description "personal description"
+description              : 
 url                      : https://yjqian02.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/yjqian02/yjqian02.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alice Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "802 Woodley St E Northfield, MN 55057"
+  bio              : 
+  location         : "Minneapolis, MN 55057"
   employer         :
   pubmed           : 
   googlescholar    : 
