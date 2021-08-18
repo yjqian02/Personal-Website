@@ -83,7 +83,7 @@ author:
   name             : "Alice Zhang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Minneapolis, MN 55455"
+  location         : "802 Woodley St E Northfield, MN 55057"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
+#   teaching:
+#     output: false
+#     permalink: /:collection/:path/
+#   publications:
+#     output: false
+#     permalink: /:collection/:path/
   CV:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#   talks:
+#     output: false
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,40 +210,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _publications
+#   - scope:
+#       path: ""
+#       type: publications
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+  # _cv
   - scope:
       path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: cv
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
