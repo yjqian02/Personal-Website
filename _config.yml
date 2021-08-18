@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alice Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alice Zhang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Zhang"
-  avatar           : "2020-06-13 Alice's iPhone Photos 906 (2).jpg"
+  avatar           : "https://github.com/yjqian02/yjqian02.github.io/blob/9f8086acd16a838799f284207d347b58e2d0e4dd/images/2020-06-13%20Alice's%20iPhone%20Photos%20906%20(2).JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Minneapolis, MN 55455"
   employer         :
