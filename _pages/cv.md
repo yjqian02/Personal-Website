@@ -11,32 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Minnesota, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Mar '21 - Present | IT Infrastructure Specialist, University of Minnesota
+
+* Jun '21 - August '21 | Research Intern, Computing Research Association
+
+* Feb '21 - Sep '21 | Growth Marketing Intern, Candor
+
+* Feb '21 - Apr '21 | Technical Content Team Lead, humanID
+
+* Jan '21 - May '21 | Teaching Assistant, University of Minnesota
+
+Leadership Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Co-Founder, Carene-id
+* Marketing Director, Google Developers Student Clubs, University of Minnesota-TC
+* Developmental Coordinator, Charosa (Student Group)
+* Founder, Girls Who Code (Local Chapter)
 
-Publications
+<!--- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+
