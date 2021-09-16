@@ -10,7 +10,7 @@ main:
 #     url: /teaching/    
     
   - title: "About"
-    url: /_pages/about-me/
+    url: /about-me/
         
   - title: "Blog Posts"
     url: /year-archive/
